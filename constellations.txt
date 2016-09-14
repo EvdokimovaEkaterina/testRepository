@@ -14,4 +14,6 @@ public enum ÑonstellationName
     Andromeda = 1,
     Gemini =2,
     UrsaMajor=3,
+    CanisMajor=4,
+    Libra=5,
 }
