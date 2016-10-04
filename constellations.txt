@@ -7,7 +7,9 @@ public class Ñonstellation
 	{
         Name = name;
 	}
+public int radius;
 }
+
 
 public enum ÑonstellationName
 {
