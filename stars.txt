@@ -1,6 +1,6 @@
 public class Stars
 {
-public string name ;
-public string radius;
-public int temp;
+public string name 
+public string radius
+public int temp
 }
