@@ -1,4 +1,4 @@
 public class Stars
 {
-public string name ;
+public string name 
 }
